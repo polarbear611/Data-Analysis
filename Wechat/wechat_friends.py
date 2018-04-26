@@ -30,4 +30,4 @@ if __name__ = "__main__":
 	secret_key = 'ZxAD5nKzTmttiLn3EE2hBUcaP5bx8C8v'
 	userid = '250761123'
 	end_point = TencentYoutuyun.conf.API_YOUTU_END_POINT
-	youtu = TencentYoutuyun.YouTu(appid, secret_id, secret_key, userid, end_point)
+	youtu = TencentYoutuyun.YouTu(appid, secret_id, secret_key, userid, end_point
